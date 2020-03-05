@@ -77,6 +77,8 @@ var app = new Vue({
 		 },
 		 hideAddPopup: function (contact, hash) {
 		    this.state.addPopup = false
+		    this.nameAdd = ""
+		    this.telAdd = ""
 		 },
 		 saveAddContact: function(){
     		 var _ = this
