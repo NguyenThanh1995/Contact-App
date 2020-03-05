@@ -7,9 +7,3 @@ Simple Contact App FireBase
 
 **Giấy phép MIT được áp dụng cho Vuejs & Bootstrap, hàm băm từ myjs**
 
-##Ảnh xem trước
-
-![Image 1](https://https://ibb.co/H27wC5H)
-![Image 2](https://ibb.co/1qjwKjW)
-![Image 3](https://ibb.co/t44r82q)
-![Image 3](https://ibb.co/SmDTTqm)
